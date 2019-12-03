@@ -1,0 +1,6 @@
+12
+abcababbaddc
+3
+abcabacbacdc
+abcbbbbdadda
+abcababdaddc
